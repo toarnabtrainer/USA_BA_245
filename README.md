@@ -32,3 +32,9 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 * **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
 
 <hr>
+
+**UML Classwork Diagram on ATM Project**<br>
+
+![image](https://github.com/toarnabtrainer/USA_BA_245/assets/111301975/c53f1b47-aa8b-4c1b-9baf-4f72c3c35783)
+
+<hr>
